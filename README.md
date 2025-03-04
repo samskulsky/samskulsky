@@ -1,10 +1,10 @@
-<div align="center">
+<div align="left">
   <h1>Hi there, I'm Sam 👋</h1>
-  <p>Computer Science Honors Student at Purdue University</p>
+  <p>CS Honors + Math Student at Purdue University</p>
   <p>📍 Los Angeles, CA</p>
 </div>
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/samuel-skulsky/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -16,19 +16,7 @@
   </a>
 </div>
 
-## 🎓 Education
-
-- **Purdue University** | B.S. in Computer Science Honors *(2024 - Present)*
-  - Concentration: Computational Science and Engineering
-  - Minor: Mathematics
-
-## 🚀 Projects
-
-- **[Huntopia](https://github.com/samskulsky/huntopia-app)** - Real-time cross-platform Scavenger Hunt app using AI and location tracking *(Flutter/Dart, Firebase, Google Maps, OpenAI API)*
-
-## 🛠 Skills
-
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
@@ -38,7 +26,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
