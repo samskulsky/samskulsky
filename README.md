@@ -1,34 +1,30 @@
-<div align="left">
-  <h1>Hi there, I'm Sam 👋</h1>
-  <p>CS Honors + Math Student at Purdue University</p>
-  <p>📍 Los Angeles, CA</p>
-</div>
+I'm a student at Purdue University pursuing dual B.S. degrees in Computer Science (Honors) and Mathematics, with a concentration in Computational Science and Engineering.
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/samuel-skulsky/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sskulsky@purdue.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/samskulsky">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
+---
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</div>
+#### Currently:
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</div>
+*   Doing backend development for [**Boilerexams**](https://www.boilerexams.com/), a studying website for Purdue students.
+*   Incoming **Software Engineering Intern** at **Uber** (Platform Engineering, Summer 2025).
+
+#### My Interests & Skills:
+
+*   **Languages:** Go, Python, Java, C, C#, Dart, R, LaTeX
+*   **Tools & Tech:** Docker, Git, Linux, PostgreSQL, Firebase, Flutter, Unity, React
+
+#### Some Projects & Experiences:
+
+*   **[Huntopia](https://github.com/samskulsky/huntopia-app):** Multiplayer mobile scavenger hunt app (Flutter, Firebase).
+*   **Bioinformatics Software:** Developed ML tools for sequence analysis during research at CMU (Go).
+*   **Git Reimplementation:** Rebuilt core Git functionalities from scratch (Java).
+*   **Mobile Games:** Launched two iOS games with 10k+ downloads (Unity, C#).
+*   Led high school hackathons and volunteered as a CS/Math tutor.
+
+---
+
+#### Get in Touch:
+
+*   **LinkedIn:** [linkedin.com/in/samuel-skulsky](https://linkedin.com/in/samuel-skulsky/)
+*   **Email:** sskulsky@purdue.edu
+
+---
