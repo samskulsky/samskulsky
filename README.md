@@ -6,7 +6,7 @@ I’m a student at **Purdue University** pursuing dual B.S. degrees in **Compute
 
 ### 🔭 Currently
 
-- **Backend Developer** at [**Boilerexams**](https://www.boilerexams.com/), scaling microservices and optimizing PostgreSQL for 8M+ submissions.  
+- **Backend Developer** at [**Boilerexams**](https://www.boilerexams.com/).  
 - Previous **Software Engineering Intern** at **Uber** (Platform Engineering, Summer 2025).  
 
 ---
@@ -14,14 +14,8 @@ I’m a student at **Purdue University** pursuing dual B.S. degrees in **Compute
 ### 💻 Experience Highlights
 
 - **Uber (Software Engineering Intern, Summer 2025):**  
-  Built a LangGraph RAG Slackbot for company-wide IT support, integrating OpenSearch, Glean, and internal knowledge bases for 30K+ employees. Enhanced retrieval relevance with dynamic context injection and developed self-grading retrieval nodes, reducing error rates by 50%.  
-
-- **Carnegie Mellon University (Student Researcher):**  
-  Implemented genome assembly and phylogenetic algorithms in Go, analyzing SARS-CoV-2 and metagenomic samples for diversity and evolutionary trends.  
-
-- **Schoolhouse.world (Volunteer Tutor & Moderator):**  
-  Tutored math/CS, reviewed 600+ tutor applications, and earned 320+ positive student ratings.  
-
+  Built a LangGraph RAG Slackbot for company-wide IT support, integrating OpenSearch, Glean, and internal knowledge bases for 30K+ employees. Enhanced retrieval relevance with dynamic context injection and developed self-grading retrieval nodes, reducing error rates by 50%.
+  
 ---
 
 ### ⚡ Skills & Tools
