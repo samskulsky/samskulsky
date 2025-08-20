@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Samuel Skulsky  
+# 👋 Hi, I’m Sam Skulsky  
 
 I’m a student at **Purdue University** pursuing dual B.S. degrees in **Computer Science (Honors)** and **Mathematics**, with a concentration in **Computational Science and Engineering**.  
 
